@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PbLqllykE4Xwg6bB4mbmWREotYIqQ/rWCfN9LYzll5A=",
+  "Source": "ContosoEventsAPI",
+  "BasePath": "_content/ContosoEventsAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
